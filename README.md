@@ -35,7 +35,7 @@ In this assignment, we used 1.4GB of data to answer four different questions tha
 
 Laveraged the power of Pandas to deal with the large amount of data and used duckdb to write SQL queries in Python.
 
-👉[Link]() to Notebook.
+👉[Link](https://github.com/ushnak-tech/Be-Zen-Assignment/blob/main/Be_Zen.ipynb) to Notebook.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1utpkc7Ctwal_vSUuPGCYqtnqQ_t0Fcwv?usp=sharing)
 
